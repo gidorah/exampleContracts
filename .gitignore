@@ -2,7 +2,7 @@
 .env
 /build/
 /node_modules/
-/migrations
+/migrations/
 package-lock.json
 package.json
 truffle-config.js
